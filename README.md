@@ -1,7 +1,7 @@
 # 🐍 Exercícios e Desafios em Python
 
 Bem-vindo(a)!  
-Este repositório foi criado por **Ailton da Silva** para reunir meus estudos, exercícios e desafios resolvidos em **Python**.  
+Este repositório foi criado para reunir meus estudos, exercícios e desafios resolvidos em **Python**.  
 O objetivo é praticar lógica de programação, explorar bibliotecas e criar uma base organizada para consultas futuras.
 
 📌 Perfil GitHub: [Ailton da Silva](https://github.com/SEU-USUARIO)
