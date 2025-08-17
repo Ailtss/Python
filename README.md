@@ -24,30 +24,6 @@ projetos_pequenos/
 
 ---
 
-## 🚀 Como Executar os Arquivos
-
-1. Certifique-se de ter o **Python 3** instalado:
-   ```bash
-   python --version
-   ```
-
-2. Clone o repositório:
-   ```bash
-   git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
-   ```
-
-3. Acesse a pasta do repositório:
-   ```bash
-   cd NOME-DO-REPOSITORIO
-   ```
-
-4. Execute o arquivo desejado:
-   ```bash
-   python caminho/do/arquivo.py
-   ```
-
----
-
 ## 🎯 Objetivos
 
 - Praticar lógica de programação
