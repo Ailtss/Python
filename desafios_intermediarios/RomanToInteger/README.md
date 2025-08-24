@@ -27,7 +27,7 @@ Saída:
 
 2. Execute o script no terminal:
    ```bash
-   python roman_to_int.py
+   python RomanToInteger.py
    ```
 
 ---
