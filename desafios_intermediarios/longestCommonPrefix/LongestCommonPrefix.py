@@ -4,8 +4,7 @@ def longestCommonPrefix(lista: list[str]) -> str:
         lista[i] = word.lower()
 
     prefixo = lista[0]
-    primeira_letra = lista[0][0]
-
+    
     for palavra in lista[1:]:
         #while palavra.find(prefixo) != 0:
         while not palavra.startswith(prefixo):
