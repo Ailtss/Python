@@ -14,7 +14,7 @@ print(longestCommonPrefix(lista))
 
 Saída:
 ```
-flo
+fl
 ```
 
 ---
